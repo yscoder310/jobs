@@ -1,0 +1,7 @@
+.job_list_root {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-top: 24px;
+}

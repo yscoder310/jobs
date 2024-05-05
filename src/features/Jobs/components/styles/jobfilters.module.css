@@ -1,0 +1,11 @@
+.filters_root{
+margin-top: 32px;
+padding: 8px 24px;
+display: flex;
+flex-wrap: wrap;
+gap: 24px;
+}
+
+.filter_wrapper{
+ width: 300px;
+}
